@@ -1,2 +1,3 @@
 - [ ] 请求缓存
 - [ ] babel 编译
+- [ ] 某个 code 查询完信息后立刻显示，不必 after batch
